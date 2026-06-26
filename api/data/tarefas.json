@@ -1,0 +1,12 @@
+[
+  {"id": 1, "titulo": "Configurar repositório", "status": "concluido", "prioridade": "alta"},
+  {"id": 2, "titulo": "Criar rotas da API", "status": "em_andamento", "prioridade": "alta"},
+  {"id": 3, "titulo": "Escrever testes unitários", "status": "pendente", "prioridade": "media"},
+  {"id": 4, "titulo": "Configurar GitHub Actions", "status": "pendente", "prioridade": "alta"},
+  {"id": 5, "titulo": "Elaborar relatório técnico", "status": "pendente", "prioridade": "media"},
+  {"id": 6, "titulo": "Revisar normas ABNT", "status": "pendente", "prioridade": "baixa"},
+  {"id": 7, "titulo": "Simular entrevista oral", "status": "pendente", "prioridade": "alta"},
+  {"id": 8, "titulo": "Refatorar código", "status": "pendente", "prioridade": "media"},
+  {"id": 9, "titulo": "Atualizar README", "status": "pendente", "prioridade": "baixa"},
+  {"id": 10, "titulo": "Enviar trabalho no Classroom", "status": "pendente", "prioridade": "critica"}
+]
