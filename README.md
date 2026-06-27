@@ -43,7 +43,7 @@ Certifique-se de que tem o Python instalado na sua máquina.
 
 ### 1. Clonar o Repositório e Acessar a Pasta
 ```bash
-git clone <url-do-seu-repositorio>
+git clone <https://github.com/andersonniltondesouza-unidavi/trabalho-final04>
 cd trabalho-final04
 ```
 
