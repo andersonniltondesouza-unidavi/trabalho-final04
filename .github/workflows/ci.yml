@@ -3,9 +3,9 @@ name: CI Pipeline - API Gestão de Tarefas
 # Definição de quando o pipeline será executado
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main","master"]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "main", "master"]
 
 jobs:
   build-and-test:
